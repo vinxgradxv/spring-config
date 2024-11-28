@@ -1,6 +1,6 @@
 # Настройки Spring MVC
 server:
-  port: 8081
+  port: 8086
 
 # Настройки basic.ribbon
 #basic:
